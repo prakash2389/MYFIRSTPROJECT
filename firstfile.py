@@ -6,4 +6,7 @@ for i in range(1, input_value):
         print(i, " is even")
     else:
         print(i, " is odd")
-    
+
+print("Completed")
+print("thanks")
+
